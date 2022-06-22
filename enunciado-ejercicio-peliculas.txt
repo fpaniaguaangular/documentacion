@@ -1,0 +1,22 @@
+SUPERMOVIES
+
+COMPONENTES, SERVICIOS, LLAMADAS HTTP, FORMULARIOS Y VALIDACIONES, GUARDS, ROUTING inc. CHILDREN.
+
+CABECERA
+MENU
+- INICIO.
+- REGISTRO. Introducir: Nombre, Año de Nacimiento y Dirección de correo electrónico. [Guardar]. El formulario debe estar validado con Formularios Reactivos.
+- CONSULTA. Guard para comprobar que el usuario está registrado.
+- AYUDA.
+	- Créditos.
+	- Instrucciones.
+
+- CONSULTA:
+	[Título de una película][Buscar]-->Validar que el título de la película no esté vació.
+	FICHA DE LA PELÍCULA, INCLUÍDO EL PÓSTER
+
+SERVICIO:
+	Validación que compruebe que el título no está vacío y que no contenga la palabra "PENDRIVE".
+
+
+https://www.omdbapi.com/
